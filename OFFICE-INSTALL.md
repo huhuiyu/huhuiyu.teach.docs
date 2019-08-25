@@ -15,5 +15,4 @@
   ![step0012](https://klcxy.top/myoss/common/queryOssUrl?tbOssInfo.oiid=57&tbOssInfo.obid=3)  
   ![step0013](https://klcxy.top/myoss/common/queryOssUrl?tbOssInfo.oiid=58&tbOssInfo.obid=3)  
   ![step0014](https://klcxy.top/myoss/common/queryOssUrl?tbOssInfo.oiid=59&tbOssInfo.obid=3)  
-  ![test](https://exp.bdstatic.com/static/common/widget/top-search-box/logo_1e63520.png)
 - [返回](OFFICE.md)
